@@ -1,7 +1,7 @@
 public class Main {
 
 public static void main(String[] args) {
-   String emailPenerima = "snowmoonlight08@gmail.com";
+   String emailPenerima = "moonlight@gmail.com";
         String nomerHp = "+65 8474 0813";
         String mobileId = "iphone-346356";
 
